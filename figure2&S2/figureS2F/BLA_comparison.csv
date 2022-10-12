@@ -1,0 +1,7 @@
+"","cluster",".y.","group1","group2","p","p.adj","p.format","p.signif","method"
+"1","L2/3-Calb1","ratio","sort_4-6","unsort_1-3",1,1,"1","ns","Wilcoxon"
+"2","L2/3-Rorb","ratio","sort_4-6","unsort_1-3",1,1,"1","ns","Wilcoxon"
+"3","L5-Bcl6","ratio","sort_4-6","unsort_1-3",1,1,"1","ns","Wilcoxon"
+"4","L5-S100b","ratio","sort_4-6","unsort_1-3",1,1,"1","ns","Wilcoxon"
+"5","L6-Npy","ratio","sort_4-6","unsort_1-3",1,1,"1","ns","Wilcoxon"
+"6","L6-Syt6","ratio","sort_4-6","unsort_1-3",1,1,"1","ns","Wilcoxon"
