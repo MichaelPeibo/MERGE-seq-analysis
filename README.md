@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/256449102.svg)](https://zenodo.org/badge/latestdoi/256449102)
+
 # MERGE-seq analysis scripts
 Analysis scripts of single vmpfc neuron projectome and transcriptome analysis.
 
