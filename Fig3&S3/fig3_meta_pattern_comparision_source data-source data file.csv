@@ -1,0 +1,5 @@
+"","meta_pattern","estimate",".y.","group1","group2","n1","n2","statistic","p","conf.low","conf.high","method","alternative","p.adj","p.adj.signif"
+"1","double",0.155997043933757,"percentage","gao2020","this_study",10,10,57,0.621,-1.01589258482729,3.74232318118978,"Wilcoxon","two.sided",1,"ns"
+"2","single",-1.93242529827896,"percentage","gao2020","this_study",5,5,10,0.69,-19.7981205786084,15.2045190581776,"Wilcoxon","two.sided",1,"ns"
+"3","triple",5.42115648504624e-05,"percentage","gao2020","this_study",10,10,53.5,0.815,-0.536587499742451,0.865756615428855,"Wilcoxon","two.sided",1,"ns"
+"4","triple_more",-0.0976107009275887,"percentage","gao2020","this_study",6,6,11,0.28,-0.975659068964172,0.162201523050785,"Wilcoxon","two.sided",1,"ns"

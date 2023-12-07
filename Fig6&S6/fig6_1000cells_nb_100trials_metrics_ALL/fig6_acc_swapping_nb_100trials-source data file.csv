@@ -1,0 +1,6 @@
+"target","estimate",".y.","group1","group2","n1","n2","statistic","p","conf.low","conf.high","method","alternative","p.adj","p.adj.signif"
+"AI",0.183271463141819,"Value","original","swap",100,100,7824,5.22e-12,0.13667910807023,0.233297866577674,"Wilcoxon","two.sided",5.22e-12,"****"
+"BLA",0.193299683127112,"Value","original","swap",100,100,8223.5,3.4e-15,0.150031169833232,0.230047318274551,"Wilcoxon","two.sided",6.8e-15,"****"
+"DMS",0.220032217555835,"Value","original","swap",100,100,9539.5,1.37e-28,0.199966351548002,0.246651703605753,"Wilcoxon","two.sided",6.85e-28,"****"
+"LH",0.210072696125498,"Value","original","swap",100,100,9523,2.16e-28,0.189951057726234,0.233349970454577,"Wilcoxon","two.sided",8.64e-28,"****"
+"MD",0.210031820168166,"Value","original","swap",100,100,8671,2.98e-19,0.18326065872258,0.23670720084362,"Wilcoxon","two.sided",8.94e-19,"****"
