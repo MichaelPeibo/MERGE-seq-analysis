@@ -8,4 +8,4 @@ can be found https://figshare.com/projects/High-throughput_mapping_of_single-neu
 
 Paper is preprinted v1 (https://www.biorxiv.org/content/10.1101/2021.05.16.444258v1), v2 (https://www.biorxiv.org/content/10.1101/2021.05.16.444258v2.abstract) and in revision.
 
-GEO ACcession: GSE210174, token for reviewers:spurqamknpkrlkr.
+GEO ACcession: GSE210174(https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE210174)
